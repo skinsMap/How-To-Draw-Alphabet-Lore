@@ -223,7 +223,9 @@
         "https://raw.githubusercontent.com/skinsMap/How-To-Draw-Alphabet-Lore/main/L/alphabet_lore_l_8.png",
         "https://raw.githubusercontent.com/skinsMap/How-To-Draw-Alphabet-Lore/main/L/alphabet_lore_l_9.png",
         "https://raw.githubusercontent.com/skinsMap/How-To-Draw-Alphabet-Lore/main/L/alphabet_lore_l_10.png"
-         {
+       ]
+    },
+    {
       "title": "M",
       "preview": "https://raw.githubusercontent.com/skinsMap/How-To-Draw-Alphabet-Lore/main/M/alphabet_lore_m_icon.png",
       "locked": false,
